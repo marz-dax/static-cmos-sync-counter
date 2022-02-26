@@ -1,6 +1,16 @@
 # Description
 A static CMOS design for a 32-bit Synchronous Counter.
 
+# Tools
+>
+> Synopsys HSPICE
+> 
+> Mentor Graphics IC Station Schematic Editor
+> 
+> Mentor Graphics IC Station Layout Editor
+> 
+> TSMC 180nm technology node
+>
 # Block Diagram
 <img src="https://github.com/marz-dax/static-cmos-sync-counter/blob/6aebfc33c3e6631321f84a2637ede1966c640d8a/block_diagram.png" width="300">
 
