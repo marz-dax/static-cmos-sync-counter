@@ -5,6 +5,8 @@ A static CMOS design for a 32-bit Synchronous Counter.
 >
 > Synopsys HSPICE
 > 
+> Synopsys Custom WaveView
+> 
 > Mentor Graphics IC Station Schematic Editor
 > 
 > Mentor Graphics IC Station Layout Editor
